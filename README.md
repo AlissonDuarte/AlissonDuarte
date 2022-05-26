@@ -1,2 +1,2 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+### Languages <img src="https://img.shields.io/badge/Python-298D46?style=for-the-badge&logo=python&logoColor=white" "https://img.shields.io/badge/SQL-2962FF?style=for-the-badge&logo=python&logoColor=white"/>

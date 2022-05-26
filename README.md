@@ -6,4 +6,4 @@
 
 ### Databases <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src= "https://img.shields.io/badge/Oracle-5000ff?style=for-the-badge&logo=oracle&logoColor=green" /> <img src="https://img.shields.io/badge/Oracle-5000ff?style=for-the-badge&logo=oracle&logoColor=green"/> 
 
-## Artificial Intelligence <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src= "" />
+## Artificial Intelligence <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src= "https://img.shields.io/badge/StatsModel-4285F4?style=for-the-badge&logo=&logoColor=green" />

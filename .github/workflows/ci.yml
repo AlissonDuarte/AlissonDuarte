@@ -15,4 +15,4 @@ jobs:
       - name: Run tests
         run: |
           echo "Running tests..."
-          exit 8
+          exit 2

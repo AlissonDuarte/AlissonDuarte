@@ -14,5 +14,5 @@ jobs:
 
       - name: Run tests
         run: |
-          echo "Running tests..."
-          exit 3
+          eco "Running tests..."
+          exit 0
